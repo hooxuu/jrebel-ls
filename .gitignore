@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+*.log
+*.exe
+logs/
+
+# 生成的文件
+license-active-server
+build-bin/
